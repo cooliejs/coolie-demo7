@@ -2,4 +2,4 @@
 
 build sync module
 
-visit <htts://coolie.ydr.me/guide/build-sync-module/>
+visit <https://coolie.ydr.me/guide/build-sync-module/>
