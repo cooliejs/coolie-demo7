@@ -1,0 +1,24 @@
+{
+  "/index.html": {
+    "main": [
+      {
+        "src": "../webroot-dev/index.js",
+        "dest": "/static/js/6e007a1301769a5e880e049cfa668749.js",
+        "deps": [
+          "../webroot-dev/date.js"
+        ]
+      }
+    ],
+    "async": [],
+    "js": [
+      {
+        "dest": "/static/js/89023476c8d524376702684e3b68399a.js",
+        "deps": [
+          "../webroot-dev/coolie.min.js"
+        ]
+      }
+    ],
+    "css": [],
+    "res": []
+  }
+}
