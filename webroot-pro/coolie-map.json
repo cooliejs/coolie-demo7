@@ -3,9 +3,10 @@
     "main": [
       {
         "src": "../webroot-dev/index.js",
-        "dest": "/static/js/main/a122d19654d3cec7f22b605bc4c74308.js",
+        "dest": "/static/js/main/5f74f36f0751b44b4f8f3b9d9788b234.js",
         "deps": [
-          "../webroot-dev/date.js"
+          "../webroot-dev/date.js",
+          "../webroot-dev/node_modules/blear.utils.typeis/src/index.js"
         ]
       }
     ],

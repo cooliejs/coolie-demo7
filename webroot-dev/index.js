@@ -1,4 +1,5 @@
 // index.js
 var date = require('./date.js');
+var typeis = require('blear.utils.typeis');
 
-alert('today is ' + date.format());
+alert('date typeis ' + typeis(date));
