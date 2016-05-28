@@ -13,5 +13,5 @@
 
 coolie.config({
     // 入口模块基准路径，相对于当前文件
-    base: './'
+    mainModulesDir: './'
 }).use();

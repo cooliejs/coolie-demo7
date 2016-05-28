@@ -3,18 +3,17 @@
     "main": [
       {
         "src": "../webroot-dev/index.js",
-        "dest": "/static/js/6e007a1301769a5e880e049cfa668749.js",
+        "dest": "/static/js/main/a122d19654d3cec7f22b605bc4c74308.js",
         "deps": [
           "../webroot-dev/date.js"
         ]
       }
     ],
-    "async": [],
     "js": [
       {
-        "dest": "/static/js/89023476c8d524376702684e3b68399a.js",
+        "dest": "/static/js/0996319be2c4f9517575b54dcc4af897.js",
         "deps": [
-          "../webroot-dev/coolie.min.js"
+          "../webroot-dev/node_modules/coolie.js/coolie.js"
         ]
       }
     ],
